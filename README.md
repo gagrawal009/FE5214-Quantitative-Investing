@@ -49,12 +49,12 @@ Despite no major improvements in forecast accuracy over OLS, the clustering and 
 📄 Full report available in the `Project/` folder.
 
 ### 👥 Group Members
-- **Michael Wynn**  
-- **Poreddy Saikiran Reddy**  
-- **Gaurav Agrawal**  
-- **Zheng Zhoudong**  
-- **Raditya**  
-- **Wang Yidong**  
+- **Gaurav Agrawal** 
+- Michael Wynn
+- Poreddy Saikiran Reddy
+- Zheng Zhoudong
+- Raditya
+- Wang Yidong 
 
 Special thanks to our professors for their guidance and feedback throughout the course.
 
