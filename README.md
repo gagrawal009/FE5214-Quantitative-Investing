@@ -16,6 +16,22 @@ The course focuses on data-driven approaches to systematic investing. Topics inc
 - /Project: Group project on ML-based portfolio construction using Fama-French factors
 
 
+## Assignments
+
+**Assignment 1 – Industry Analysis and Return Regression**
+Analyzed GICS sector/industry compositions and market capitalizations in the S&P 500 (2014 vs. 2024). Conducted return regression of NVIDIA against its peer industry index using both equal-weighted and market-cap-weighted methods.
+
+**Assignment 2 – Alpha Factor and Long-Short Portfolio**
+Created a return-predictive alpha factor using 5-day momentum normalized by 21-day volatility and adjusted for industry effect. Evaluated significance using cross-sectional regressions and built a long-short portfolio strategy with backtested annual returns and Sharpe ratios (with/without trading costs).
+
+**Assignment 3 – Multi-Asset Portfolio Optimization**
+Downloaded and used historical returns (2000–present) for U.S. equities, bonds, REITs, and commodities to implement portfolio optimizations under constraints:
+    Maximize return with risk cap,
+    Minimize risk with return floor,
+    Maximize Sharpe ratio.
+Also backtested equal-weight, min-volatility, and max-diversification portfolios and studied the impact of regime shifts in asset risk.
+
+
 ## 🧠 Group Project  
 **Title**: *Can Traditional Factors Like Fama-French Power Modern Machine Learning Portfolio Design?*  
 **Submitted**: April 2025  
